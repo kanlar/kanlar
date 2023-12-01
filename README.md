@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Muhammed Mustafa Kan</h1>
-<h3 align="center">HTML & CSS & JavaScript</h3>
+<h1 align="center">I'm Muhammed Mustafa Kan</h1>
+<h3 align="center">HTML & CSS | JS & React</h3>
+
+- 🌱 I’m currently learning **React**
+
+- 📫 How to reach me **muhammedmustafakan10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
