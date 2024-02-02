@@ -1,7 +1,7 @@
 <h1 align="center">I'm Muhammed Mustafa Kan</h1>
-<h3 align="center">HTML & CSS | JS & React</h3>
+<h3 align="center">HTML & CSS | JS & React"Next.JS"</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.JS**
 
 - 📫 How to reach me **muhammedmustafakan10@gmail.com**
 
